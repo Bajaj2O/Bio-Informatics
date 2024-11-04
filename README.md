@@ -6,13 +6,16 @@ This notebooks shows how to classify protein families soley based on their seque
 ## Table of Contents
 
 - [Installation](#installation)
+- [Datasets](#datasets)
 - [Usage](#usage)
-- [Features](#features)
 - [Model Architecture](#model-architecture)
 - [Acknowledgments](#acknowledgments)
 
-## Installation
+# Installation
 To run this project, you will need to install the .ipynb file along with datasets. Follow the steps below to set up the environment:
+
+# Datasets
+Datasets can be found here : https://www.kaggle.com/datasets/shahir/protein-data-set
 
 
 ## Clone the repository
