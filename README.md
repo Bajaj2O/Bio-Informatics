@@ -49,8 +49,8 @@ Example Data Format
 The input data should be in CSV format with columns for sequences and their corresponding classifications. Below is an example structure:
 
 ## Sequence	Classification
-MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAK	Class A
-MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNSLD	Class B
+### MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAK	      Class A
+### MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNSLD	        Class B
 Features
 Data Preprocessing: Efficiently cleans and prepares biological sequences for modeling.
 CNN Architecture: Utilizes a Convolutional Neural Network to learn patterns in sequence data.
