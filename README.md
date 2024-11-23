@@ -17,14 +17,8 @@ To run this project, you will need to install the .ipynb file along with dataset
 # Datasets
 Datasets can be found here : https://www.kaggle.com/datasets/shahir/protein-data-set
 
-
-## Clone the repository
-git clone https://github.com/yourusername/repository-name.git
-
 # Navigate to the project directory
 run the .ipynb file making sure to use right configuration environment.
-
-
 ## Usage
 To utilize the sequence classification model, you can load your biological sequence data and preprocess it using the provided functions. Below is a simple example of how to use the code:
 
