@@ -6,11 +6,11 @@ This notebooks shows how to classify protein families soley based on their seque
 ## Sample images
 
 
-![correlation matrix: Baseline Model (1D CNN)](./images/cf1.png)
-![correlation matrix: Enhanced Multi-Filter CNN Model](./images/cf2.png)
-![accuracy and loss: Baseline Model (1D CNN)](./images/1.png)
+![correlation matrix: Baseline Model (1D CNN)](./images/1.png)
+![correlation matrix: Enhanced Multi-Filter CNN Model](./images/2.png)
+![accuracy and loss: Baseline Model (1D CNN)](./images/11.png)
 ![accuracy and loss:   Enhanced Multi-Filter CNN Model:
-](./images/2.png)
+](./images/22.png)
 ## Table of Contents
 
 - [Installation](#installation)
