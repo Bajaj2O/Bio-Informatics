@@ -3,6 +3,14 @@
 ## Overview
 
 This notebooks shows how to classify protein families soley based on their sequence of aminoacids. This work is based on the current success of deep learning models in natural language processing (NLP) and assumes the proteins sequences can be viewed as as a language. Please note, that there are notable search engines such as BLAST for this task.
+## Sample images
+
+
+![correlation matrix: Baseline Model (1D CNN)](./images/cf1.png)
+![correlation matrix: Enhanced Multi-Filter CNN Model](./images/cf2.png)
+![accuracy and loss: Baseline Model (1D CNN)](./images/1.png)
+![accuracy and loss:   Enhanced Multi-Filter CNN Model:
+](./images/2.png)
 ## Table of Contents
 
 - [Installation](#installation)
